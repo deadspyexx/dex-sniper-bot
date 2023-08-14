@@ -1,4 +1,5 @@
 # Mempool-sniper-bot
+
 <p align="center">
   <a href="https://www.npmjs.com/package/hashlips_art_engine">
     <img alt="downloads" src="https://img.shields.io/npm/dm/hashlips_art_engine.svg?color=blue" target="_blank" />
@@ -20,7 +21,7 @@ To identify profitable trades, sniper bots use technical analysis and various in
 
 # Sniper bot for multiple decentralized exchanges (DEX)
 
-![Mempool sniper bot interface]("https://github.com/deadspyexx/Mempool-sniper-bot/blob/main/menu_screen.png?raw=true")
+![Mempool sniper bot interface](https://github.com/deadspyexx/Mempool-sniper-bot/blob/main/menu_screen.png?raw=true)
 
 * Pancakeswap (Binance Smart Chain (BSC))
 * PYEswap (Binance Smart Chain (BSC))
