@@ -45,7 +45,7 @@ To identify profitable trades, sniper bots use technical analysis and various in
 
 * BNB, BUSD, USDT, ETH, USDT, USDC, MATIC, AVAX, FTM, PYE, ONE, MilkADA, CRO.
 
-### Configuration
+## Configuration
 
 ```ini
 [WALLET]
