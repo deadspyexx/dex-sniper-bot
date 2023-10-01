@@ -44,3 +44,34 @@ To identify profitable trades, sniper bots use technical analysis and various in
 ## Snipe with multiple currency tokens
 
 * BNB, BUSD, USDT, ETH, USDT, USDC, MATIC, AVAX, FTM, PYE, ONE, MilkADA, CRO.
+
+  ### Configuration
+
+```ini
+[WALLET]
+; This is your BSC wallet's private key.
+SECRET_KEY=private_wallet_key
+
+; A private node is recommended for better uptime. However, you may also use free nodes.
+WSS_NODE=wss://bsc-ws-node.nariox.org:443
+
+
+[CONTRACTS]
+; These variables support some pre-defined contracts (BNB, ETH, BUSD). 
+; For other contracts, you'll have to specify the contract address yourself.
+INPUT=BNB
+OUTPUT=BUSD
+
+
+[TRANSACTION]
+
+GAS_LIMIT=500000
+GAS_PRICE=5
+
+; This variable is the amount of cryptocurrency you wish to use with the input contract.
+; For example, if you use WBNB as input, you will specify the amount in WBNB's format.
+AMOUNT_IN=0.0033
+
+BUY_SLIPPAGE=10
+```
+
