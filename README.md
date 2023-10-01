@@ -38,10 +38,6 @@ To identify profitable trades, sniper bots use technical analysis and various in
 - Edit the address and private_key fields in the config.json file. 
 - Set up the network and AMMs in the sniping menu. Ensure that there are sufficient funds on the specified address to cover transaction fees.
 
-## Snipe with multiple currency tokens
-
-* BNB, BUSD, USDT, ETH, USDT, USDC, MATIC, AVAX, FTM, PYE, ONE, MilkADA, CRO.
-
 ## Configuration
 
 ```ini
